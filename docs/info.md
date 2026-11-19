@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Consiste en un circuito lógico binario que tiene cuatro entradas y dos salidas
 
 ## How to test
 
-Explain how to use your project
+Los dos primeros bits de las cuatro entradas es el primer sumando. Los dos últimos bits de la entrada es el segundo sumando. La salida tiene tres bits.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Las entradas se pueden activar por medio de botones y las salidas se pueden visualizar con leds.
